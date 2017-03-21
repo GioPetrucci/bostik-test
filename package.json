@@ -1,0 +1,50 @@
+{
+  "name": "bostik-web",
+  "version": "0.1.0",
+  "description": "Sitio oficial de Charly Bostik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GioPetrucci/Charly-Bostik.git"
+  },
+  "author": "Jorge Díaz Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GioPetrucci/Charly-Bostik/issues"
+  },
+  "homepage": "https://github.com/GioPetrucci/Charly-Bostik#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.4",
+    "browser-sync": "^2.18.8",
+    "css-mqpacker": "^5.0.1",
+    "csswring": "^5.1.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.3.0",
+    "lost": "^8.0.0",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-import": "^9.1.0",
+    "postcss-mixins": "^5.4.1",
+    "postcss-nested": "^1.0.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.7.4",
+    "browser-sync": "^2.18.8",
+    "css-mqpacker": "^5.0.1",
+    "csswring": "^5.1.1",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.3.0",
+    "lost": "^8.0.0",
+    "page": "^1.7.1",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-import": "^9.1.0",
+    "postcss-mixins": "^5.4.1",
+    "postcss-nested": "^1.0.0"
+  },
+  "keywords": [
+    "bostik"
+  ]
+}
